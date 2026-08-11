@@ -23,6 +23,7 @@
 //             if((i+j)>=n+1)cout<<"*";
 //             else cout<<" ";
 //         }
+//         cout<<"\n";
 //     }
 // }
 //ye code 2 nested loops se bana raha hai. isme logic thoda jada lagega. ye bas curtain question k liye hota hai.
