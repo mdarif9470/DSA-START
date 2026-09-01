@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int n;
+    cout<<"Enter A Number: ";
+    cin>>n;
+    for(int row=1; row<=n; row++){
+        for (int col=1;col<=n; col++){
+            cout<<col*col<<" "; 
+        }
+        cout<<'\n';
+    }
+    
+}
+
